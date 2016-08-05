@@ -6,3 +6,4 @@
 # we see that the coefficient for the weight explaining variable changes significantly
 # thus reinforcing the cautionary advice to seek more than one variable in a linear regression
 # in order to avoid bias.
+# the shinyapp is here: https://jllebrun.shinyapps.io/MonR/
